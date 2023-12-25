@@ -1,4 +1,5 @@
 import React from 'react';
+import Project from './Project';
 
 // import { Link } from 'react-router-dom';
 
@@ -34,6 +35,8 @@ const Navbar = () => {
           <h4 id="scrollspyHeading1">About</h4>
           
           <h4 id="scrollspyHeading2">Projects</h4>
+
+          <Project />
           
           <h4 id="scrollspyHeading3">Contact</h4>
           
