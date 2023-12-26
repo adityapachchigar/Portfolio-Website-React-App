@@ -1,0 +1,58 @@
+[
+    {
+      "id": 0,
+      "title": "CryptoBoost Crypto Trading Website",
+      "description": "Web Development Project about Crypto Trading created with React, Chakra UI and Javascript. This provides information about various crypto exchange websites and various coins and rank them accordingly.",
+      "imageUrl": "../images/1.jpeg",
+      "readMore": "https://github.com/adityapachchigar/CryptoBoost-Crypto-Trading-Website"
+    },
+    {
+      "id": 1,
+      "title": "PickDeals - Online Price Comparator",
+      "description": "Simple Django Project which compares the prices of the commodities that you search on our website, on other e-commerce websites like Ajio, Shoppers Stop, Lifestyle, etc. with the help of Web Scrapping using library Beautiful Soup.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286191154-dd121d3f-7214-4591-a6af-c58943c48688.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNjUwMDAsIm5iZiI6MTcwMTE2NDcwMCwicGF0aCI6Ii84NjUwOTE3MC8yODYxOTExNTQtZGQxMjFkM2YtNzIxNC00NTkxLWE2YWYtYzU4OTQzYzQ4Njg4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDA5NDUwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjZjc5YmEwY2JlM2U1NjQ1M2RmZThjNWVkY2Y0Yzg5NDg3ZGI2NGM3YjcyMzFjYTQzZWFkMjkzMjkyOWQ0OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WwgZI6w2UJJIXxtyAt-PouFuYpy2tKskmlcP5QgzyFk",
+      "readMore": "https://github.com/adityapachchigar/PickDeals-Online-Price-Comparator/tree/main"
+    },
+    {
+      "id": 2,
+      "title": "ML Based - Gender Recognition System",
+      "description": "Totally-ML based project which is trained to recognize gender from the photograph. Web Development has been done with the help of FLASK in Python. We have applied PCA(Principal Component Analysis) along with Ensemble models.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286211357-5581a2df-3f51-4573-8470-e6abca58870d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNjYyMTAsIm5iZiI6MTcwMTE2NTkxMCwicGF0aCI6Ii84NjUwOTE3MC8yODYyMTEzNTctNTU4MWEyZGYtM2Y1MS00NTczLTg0NzAtZTZhYmNhNTg4NzBkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEwMDUxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5NGY1ODhiMWI3MWU3ZDk5MmQ0ZTBiNWYyYzJhYjk1NTQ3ZDhmMmYzY2E0MmQ1NTdmMWVkNjMxMmIwMDllNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BIKLYfs6ZNNIboqpLYQouNufMA7iuA0--YZsgyuJvzY",
+      "readMore": "https://github.com/adityapachchigar/Gender-Recognition-System/tree/main"
+    },
+    {
+      "id": 3,
+      "title": "Scheduling Algorithms in OS",
+      "description": "This is a simple Python project demonstrating the scheduling algorithms of Operating System like FCFS,Round Robin, SRTN, etc. along with their Gantt charts and average times.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286236135-bc18ff0e-bf45-48c7-86e4-592fe3f8f146.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNzQ4ODMsIm5iZiI6MTcwMTE3NDU4MywicGF0aCI6Ii84NjUwOTE3MC8yODYyMzYxMzUtYmMxOGZmMGUtYmY0NS00OGM3LTg2ZTQtNTkyZmUzZjhmMTQ2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEyMjk0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjNGNhMDQ3NjQwYTJiYjI4YWY1NzBiMGMwY2ZiZTMwNmZhNDM4NTAxMGM3OTRkOTU0MzBkMWI3MzljZmQ5YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B6N7wtWxFux5Y3kpAZzPewO0qBE67EI5To5NbEGV2-Y",
+      "readMore": "https://github.com/adityapachchigar/Scheduling-Algorithms-OS/tree/main"
+    },
+    {
+      "id": 4,
+      "title": "Email Bot on Voice Commands",
+      "description": "This project is based on some libraries of Python which I have used in order to achieve an Email Bot which totally works on Voice. You just have to tell receiver's name, the bot will send email to the receiver.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286237644-f3931d24-3953-41fc-942b-9ff6b75fa175.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNzQ5MTMsIm5iZiI6MTcwMTE3NDYxMywicGF0aCI6Ii84NjUwOTE3MC8yODYyMzc2NDQtZjM5MzFkMjQtMzk1My00MWZjLTk0MmItOWZmNmI3NWZhMTc1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEyMzAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNTdlZDVjOWE3ZTMzNTVmYzliMjc4MzM1ZDA2ZDRhZDA4ZmU4YTIzYTgxNjQzZjU5ZjFiMmFkYWQ2ZDRmNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Re1hS2elyBZW5PB8BsupQ3lQe0tozeVapJMshjrnOko",
+      "readMore": "https://github.com/adityapachchigar/Email-Bot-on-Voice-Commands/tree/main"
+    },
+    {
+      "id": 5,
+      "title": "To-do List Application",
+      "description": "This is a simple To-do list Application created using React.js, Next.js and Tailwind.css",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/277129065-ae311624-5635-4718-b5e4-02ab7a500aa8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNzQ5NDEsIm5iZiI6MTcwMTE3NDY0MSwicGF0aCI6Ii84NjUwOTE3MC8yNzcxMjkwNjUtYWUzMTE2MjQtNTYzNS00NzE4LWI1ZTQtMDJhYjdhNTAwYWE4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEyMzA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyMGVhMTYyNTQ1ODdiYTc1M2YxMjcxYzU5NzY0MzY0MWU3YTlmMDM4NGU4ZDAxZTU1MDgxNTJiMzljNTkyMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0h4YpBhFm7sobLan45-R4w3ddTlHydVEE0HpWeuMmL4",
+      "readMore": "https://github.com/adityapachchigar/To-do-List-APP"
+    },
+    {
+      "id": 6,
+      "title": "Salesmate Inventory Management Asisstant",
+      "description": "A Web Development Project including which includes developing a website for vendors and providing them with Physical and Virtual Inventory and giving suggestions with the help of Web Scrapping.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286242772-51dee318-b43f-421a-941c-5adb38c3316f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNzQ5ODQsIm5iZiI6MTcwMTE3NDY4NCwicGF0aCI6Ii84NjUwOTE3MC8yODYyNDI3NzItNTFkZWUzMTgtYjQzZi00MjFhLTk0MWMtNWFkYjM4YzMzMTZmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEyMzEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxMDY4ZjhjN2M1OWJjZDY4MDY5ZGM4NzViNTU5ZDc4NTdlYjkxOWU4MWM5NjBlZDM5ZWNiNjkxYzUwYTMzOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.w1c2Wo-o_lctMfxBfBhwz62It0tJOSArywEeqTDUsK4",
+      "readMore": "https://github.com/adityapachchigar/Salesmate-Inventary-Management-Assisstant/tree/main"
+    },
+    {
+      "id": 7,
+      "title": "Heart Disease Prediction",
+      "description": "This is a project related to Classification concept of Machine Learning. In this project, I have predicted whether a person has heart disease or not based on the data available.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/86509170/286243682-836bb009-2a67-4603-98cc-3199c595bded.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExNzUwMTMsIm5iZiI6MTcwMTE3NDcxMywicGF0aCI6Ii84NjUwOTE3MC8yODYyNDM2ODItODM2YmIwMDktMmE2Ny00NjAzLTk4Y2MtMzE5OWM1OTViZGVkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDEyMzE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhNjA0ZDdmNzNmNmM0ZDc2OGI5Yzk4YmMxNDE4NTUwN2VlYjhhNzBiMGZhMmFlMjE3YjE2M2QyNmI3NWE0YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1Oii9lBfMfJWaNGAwBjINbIukMRYj0wFH37qtb-s5sk",
+      "readMore": "https://github.com/adityapachchigar/Heart-Disease-Prediction/tree/main"
+    }
+  ]
